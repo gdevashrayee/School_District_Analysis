@@ -89,11 +89,11 @@ Below are the snapshots of the overall results of this analysis.
   - There was very little to no impact on the scores based on the school type or size.The numbers will be the same if converted to whole numbers. Thomas High School falls under the Charter School type and is defined as a medium sized school.
 
 **Original Scores by School size and type**<br />
-![original school size type](./img/img_15.PNG)
+![original school size type](./img/img_15.png)
 
 
 **Adjusted Scores by School size and type**<br />
-![adjusted school size type](./img/img_16.PNG)
+![adjusted school size type](./img/img_16.png)
 
 
 ## Summary
